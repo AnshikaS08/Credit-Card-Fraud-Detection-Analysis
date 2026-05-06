@@ -7,13 +7,14 @@ Excel, Tableau, and Data Analysis project on credit card fraud detection
 This project analyzes credit card transaction data to identify fraudulent activities and patterns using Excel and Tableau.
 
 🔹 Tools Used
-Microsoft Excel (Pivot Tables, Data Cleaning, KPIs)
-
-Tableau (Dashboard & Visualization)
+    Microsoft Excel (Pivot Tables, Data Cleaning, KPIs)
+    
+    Tableau (Dashboard & Visualization)
 
 🔹 Key KPIs
-Fraud Rate
-Total Fraud Transactions
+    Fraud Rate
+    
+    Total Fraud Transactions
 Average Transaction Amount
 Average Fraud Amount
 
