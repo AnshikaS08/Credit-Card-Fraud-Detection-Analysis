@@ -8,6 +8,7 @@ This project analyzes credit card transaction data to identify fraudulent activi
 
 🔹 Tools Used
 Microsoft Excel (Pivot Tables, Data Cleaning, KPIs)
+
 Tableau (Dashboard & Visualization)
 
 🔹 Key KPIs
